@@ -2,19 +2,15 @@
 
 ## 🚀 Von der Idee zum Deployment mit MLflow
 
-Dieses Repository enthält die Materialien für den MLOps-Workshop des KI Summer Summit 2025, geleitet von **Ahmad Salah** und **Kaywan Barazani** von [SprintEins Stuttgart](https://sprint.ins).
+Dieses Repository enthält die Materialien für den MLOps-Workshop des KI Summer Summit 2025, geleitet von **Ahmad Salah** und **Kaywan Barazani** von [SprintEins Stuttgart](https://sprinteins.com).
 
 ### 📚 Inhalt
 
 - **Präsentationen**
   - `ki-summer-summit.pptx` - Hauptpräsentation für den Workshop
-  - `MLOps_Einführung_-_KI_Summer_Summit_Stuttgart(1).pptx` - Einführung in MLOps
 
 - **Jupyter Notebooks**
-  - `ki-summer-summit.ipynb` - Hauptnotizbuch mit dem vollständigen Workshop
   - `hands-on.ipynb` - Praktische Übungen
-  - `hands-on_local_mlflow.ipynb` - Übungen für lokale MLflow-Nutzung
-  - `test.ipynb` - Detaillierte MLOps-Hands-On-Anleitung mit dem Iris-Datensatz
 
 ### 🎯 Workshop-Ziele
 
